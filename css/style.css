@@ -1,0 +1,26 @@
+.baby{
+	margin-left:550px;
+}
+
+.content {
+	text-align: center;
+	background-color: lightblue;
+	border-radius: 30px;
+	padding: 30px;
+}
+
+.content p {
+	font-size: 25px;
+	font-family: 'roboto' sans-serif;
+}
+
+.content h3{
+	border-radius: 30px;
+	background-color: tomato;
+	font-size: 28px;
+	font-family: 'roboto' sans-serif;
+}
+
+.content img{
+	margin: 0 auto;
+}
